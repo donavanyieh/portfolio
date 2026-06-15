@@ -223,21 +223,21 @@ const projects: Project[] = [
     tags: ["Web Scraping", "Data Processing", "Machine Learning", "Classification", "Research"],
   },
   {
-    title: "Daily Attention Newsletter",
-    githubUrl: "https://github.com/donavanyieh/Daily-Attention-Scraper",
-    type: "Automation",
-    metric: "Daily research digest",
-    visualLabel: "research digest",
-    tone: "#8bd3ff",
+    title: "Persona Driven Application Debugger",
+    githubUrl: "https://github.com/donavanyieh/DYWA_prod",
+    type: "Agentic Personas Simulation",
+    metric: "OpenAI Codex Hackathon 2026",
+    visualLabel: "signal explorer",
+    tone: "#c7f464",
     images: [
       {
-        src: "/projects/daily_attention.jpg",
+        src: "/projects/persona_debugger.png",
         alt: "Prompt Space application screenshot",
       },
     ],
     summary:
-      "Inspired to automate my mornings. Deployed a CRON job to scrape arxiv and huggingface papers, and provide a daily summary of advancements and new tools. Use LLMs to parse papers and extract key information, insights, and brainstorm ways to apply to daily work with chatbot 'Chat with Paper' feature.",
-    tags: ["Python", "Supabase", "Web Scraping","GenAI", "Multimodal Processing"],
+      "Moving beyond function level debugging and code improvement, to user-product level code understanding. We set personas (AI Agents) with goals, and give them free reign to operate on web application. Personas report whether they achieve their goal, and/or any difficulties. Other AI agents modify the code if necessary in a sandbox before making pull requests",
+    tags: ["Web Application", "Agentic Development", "Dashboarding"],
   },
   {
     title: "LLM Experiment Suite",
@@ -257,21 +257,21 @@ const projects: Project[] = [
     tags: ["LLM evaluation", "Prompt Engineering", "Observability","Data Visualization"],
   },
   {
-    title: "Persona Driven Application Debugger",
-    githubUrl: "https://github.com/donavanyieh/DYWA_prod",
-    type: "Agentic Personas Simulation",
-    metric: "OpenAI Codex Hackathon 2026",
-    visualLabel: "signal explorer",
-    tone: "#c7f464",
+    title: "Daily Attention Newsletter",
+    githubUrl: "https://github.com/donavanyieh/Daily-Attention-Scraper",
+    type: "Automation",
+    metric: "Daily research digest",
+    visualLabel: "research digest",
+    tone: "#8bd3ff",
     images: [
       {
-        src: "/projects/persona_debugger.png",
+        src: "/projects/daily_attention.jpg",
         alt: "Prompt Space application screenshot",
       },
     ],
     summary:
-      "Moving beyond function level debugging and code improvement, to user-product level code understanding. We set personas (AI Agents) with goals, and give them free reign to operate on web application. Personas report whether they achieve their goal, and/or any difficulties.",
-    tags: ["Web Application", "Agentic Development", "Dashboarding"],
+      "Inspired to automate my mornings. Deployed a CRON job to scrape arxiv and huggingface papers, and provide a daily summary of advancements and new tools. Use LLMs to parse papers and extract key information, insights, and brainstorm ways to apply to daily work with chatbot 'Chat with Paper' feature.",
+    tags: ["Python", "Supabase", "Web Scraping","GenAI", "Multimodal Processing"],
   },
   {
     title: "Other Projects",
