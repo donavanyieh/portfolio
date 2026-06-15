@@ -4,7 +4,11 @@ import "./globals.css";
 export const metadata: Metadata = {
   title: "Donavan | Data Scientist",
   description:
-    "A professional, exploratory DataOS portfolio for Donavan, focused on GenAI, machine learning, data products, and analytics.",
+    "I am an AI engineer based in Singapore. Welcome to my MacOS like portfolio :)",
+  icons: {
+    icon: "/icon.png",
+    apple: "/icon.png",
+  },
 };
 
 export default function RootLayout({
