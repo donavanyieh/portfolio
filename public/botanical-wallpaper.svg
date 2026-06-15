@@ -1,0 +1,106 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 900" preserveAspectRatio="none">
+  <rect width="1440" height="900" fill="#f2eadc" />
+  <rect width="1440" height="900" fill="url(#paper)" opacity=".32" />
+  <defs>
+    <pattern id="paper" width="72" height="72" patternUnits="userSpaceOnUse">
+      <path d="M0 71H72M71 0V72" fill="none" stroke="#d8cebe" stroke-width=".7" opacity=".3" />
+    </pattern>
+    <g id="leaf">
+      <path d="M0 0C28-22 45-17 63 5C34 16 15 12 0 0Z" />
+      <path d="M6 0C23 1 39 3 58 5" />
+    </g>
+    <g id="sprig">
+      <path d="M0 0C8-62 20-121 48-178" />
+      <path d="M9-43C-8-65-18-84-25-108" />
+      <path d="M18-76C40-93 55-110 68-133" />
+      <path d="M29-112C12-137 5-154 1-175" />
+      <circle cx="70" cy="-137" r="7" />
+      <circle cx="-28" cy="-112" r="6" />
+      <circle cx="1" cy="-179" r="5" />
+    </g>
+  </defs>
+  <g fill="none" stroke="#94a197" stroke-linecap="round" stroke-linejoin="round" opacity=".76">
+    <g transform="translate(68 856)" stroke-width="2.1">
+      <path d="M0 0C28-108 15-208-25-306" />
+      <path d="M-2-18C-44-69-70-112-90-164" />
+      <path d="M6-72C48-114 75-156 92-214" />
+      <path d="M7-121C-33-171-55-222-63-292" />
+      <path d="M-20-256C4-221 18-189 23-149" />
+      <path d="M38-166C66-191 87-223 102-258" />
+      <path d="M-45-107C-78-131-105-167-121-205" />
+      <path d="M-11-38C22-67 44-99 58-138" />
+      <path d="M-24-297C-10-266-3-235-5-203" stroke-dasharray="3 8" />
+      <path d="M-88-159C-57-149-34-132-17-108" stroke-dasharray="3 8" />
+      <path d="M91-213C64-201 44-183 29-160" stroke-dasharray="3 8" />
+    </g>
+    <g transform="translate(300 862)" stroke-width="1.85">
+      <path d="M0 0C-8-79-20-151-52-227" />
+      <path d="M-17-70C-47-89-72-117-89-151" />
+      <path d="M-28-123C-9-143 5-169 11-200" />
+      <path d="M-42-176C-70-194-93-220-107-251" />
+      <path d="M-53-221C-40-246-34-271-35-298" />
+      <circle cx="-91" cy="-154" r="5" />
+      <circle cx="12" cy="-203" r="5" />
+      <circle cx="-109" cy="-253" r="4" />
+      <circle cx="-35" cy="-301" r="4" />
+    </g>
+    <g transform="translate(475 864)" stroke-width="1.75">
+      <use href="#sprig" />
+      <path d="M22-38C60-63 90-91 110-129" />
+      <circle cx="114" cy="-133" r="7" />
+      <path d="M38-81C18-106 6-129 0-157" />
+      <circle cx="-3" cy="-161" r="5" />
+      <path d="M51-123C75-142 91-165 102-191" />
+      <circle cx="105" cy="-195" r="5" />
+      <path d="M70-162C51-185 41-206 38-230" />
+      <circle cx="37" cy="-234" r="5" />
+    </g>
+    <g transform="translate(674 862)" stroke-width="1.9">
+      <path d="M0 0C3-98 24-188 71-270" />
+      <path d="M9-72C-20-102-39-136-48-175" />
+      <path d="M25-120C57-140 82-169 100-207" />
+      <path d="M42-178C24-207 14-237 14-268" />
+      <path d="M57-225C89-242 111-266 124-299" />
+      <circle cx="-51" cy="-179" r="5" />
+      <circle cx="103" cy="-211" r="5" />
+      <circle cx="14" cy="-272" r="4" />
+      <circle cx="126" cy="-303" r="4" />
+    </g>
+    <g transform="translate(861 862)" stroke-width="1.7">
+      <path d="M0 0C-2-74-15-142-42-206" />
+      <path d="M-13-50C14-72 35-100 50-135" />
+      <path d="M-24-95C-48-119-65-150-74-186" />
+      <path d="M-34-145C-11-168 5-197 14-231" />
+      <circle cx="52" cy="-139" r="5" />
+      <circle cx="-76" cy="-190" r="5" />
+      <circle cx="15" cy="-235" r="4" />
+    </g>
+    <g transform="translate(1035 860)" stroke-width="1.95">
+      <path d="M0 0C-6-99 10-189 49-272" />
+      <use href="#leaf" transform="translate(8 -62) rotate(-132) scale(.72)" />
+      <use href="#leaf" transform="translate(19 -104) rotate(-24) scale(.68)" />
+      <use href="#leaf" transform="translate(24 -151) rotate(-145) scale(.64)" />
+      <use href="#leaf" transform="translate(42 -197) rotate(-28) scale(.7)" />
+      <use href="#leaf" transform="translate(49 -246) rotate(-142) scale(.62)" />
+    </g>
+    <g transform="translate(1237 858)" stroke-width="2.05">
+      <path d="M0 0C26-113 21-219-14-318" />
+      <path d="M2-38C48-78 80-125 98-185" />
+      <path d="M6-97C-27-148-45-201-48-268" />
+      <path d="M-12-282C9-248 22-213 28-174" />
+      <path d="M47-143C80-168 105-201 121-239" />
+      <path d="M-30-221C-60-244-84-278-97-317" />
+      <path d="M76-197C98-220 115-249 126-283" />
+      <path d="M-31-268C-14-236-6-204-7-171" stroke-dasharray="3 8" />
+      <path d="M95-185C66-173 43-154 26-128" stroke-dasharray="3 8" />
+    </g>
+    <g transform="translate(1341 862)" stroke-width="1.65">
+      <path d="M0 0C-4-70 8-134 37-193" />
+      <path d="M9-46C-15-70-30-99-39-132" />
+      <path d="M21-87C48-103 68-127 82-159" />
+      <circle cx="-42" cy="-136" r="5" />
+      <circle cx="85" cy="-163" r="5" />
+      <circle cx="42" cy="-199" r="4" />
+    </g>
+  </g>
+</svg>
